@@ -19,3 +19,7 @@ navigation:
   url: /archives/
 - text: Publications
   url: /tags/
+- text: Courses
+  url: /courses/
+- text: Side Projects
+  url: /side/
