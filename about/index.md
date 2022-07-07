@@ -3,11 +3,21 @@ layout: default
 title: About blueface
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses your system fonts alongside Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
+# The House Fly *Musca domestica*
 
-> It supports blockquotes, too.
+Sample Text describing the house fly system for polygenic sex determination
 
-## blueface on the Internet
+# Mechanisms of chemical communication
+
+Sample Text
+
+# Maintenance of polygenic sex determination
+
+Sample Text
+
+# Consequences of sex chromosome evolution
+
+Sample Text
 
 * [blueface][github] on GitHub (Source Code)
 * [nolsigan][nolsigan] nolsigan.github.io
