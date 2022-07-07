@@ -2,7 +2,7 @@
 =====================
 
 # Hello There!
-<img align="left" src=./images/Delclos_perfil.JPG height="180" width="180">
+<img align="left" src=./images/Delclos_perfil.JPG height="180" width="280">
 
 I'm Professor Delclos, and this is my sidekick Carlos. I am a biologist that focuses on animal behavior and genetics. I got my BS in Ecology & Evolutionary Biology at Rice University, where I studied the predatory behaviors of little aquatic damselfly larvae in the standstill ponds of East Texas. From there, I got my PhD in Biology at Texas A&M University. For this research I studied the genetics of mating behaviors in these two species of hybridizing swordtail fish that are found in the mountains of Hidalgo, Mexico (I still dablle in fishes here and there). After that, I started studying all sorts of insects until I joined UH-D, where I'll be studying the behavior of house flies.
 
