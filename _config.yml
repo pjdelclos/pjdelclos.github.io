@@ -1,5 +1,5 @@
 # Jekyll Defaults
-title: blueface
+title: Welcome to the Delclos House Fly Lab!
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -13,9 +13,9 @@ gems: [jekyll-paginate]
 paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
-- text: About
+- text: Research
   url: /about/
-- text: Archives
+- text: Members
   url: /archives/
-- text: Tags
+- text: Publications
   url: /tags/
