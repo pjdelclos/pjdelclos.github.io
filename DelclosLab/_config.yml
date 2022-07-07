@@ -1,10 +1,10 @@
 # Jekyll Defaults
-title: blueface
+title: Welcome to the Delclos House Fly Lab!
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://thien.github.io/blueface/"
-github: http://github.com/tnguyen/blueface
+url: "https://pjdelclos.github.io"
+github: http://github.com/pjdelclos
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
@@ -15,7 +15,7 @@ rss_path: /feed.xml
 navigation:
 - text: About
   url: /about/
-- text: Archives
+- text: Members
   url: /archives/
 - text: Tags
   url: /tags/
