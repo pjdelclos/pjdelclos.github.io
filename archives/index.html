@@ -6,24 +6,21 @@ title: Archives
 <ul class="posts">
 <section id="archive">
 
-<div class="heading">Archives</div>
+<div class="heading">Lab Members</div>
 
-  {% for post in site.posts %}
-<ul>
-    {% unless post.next %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-      {% endif %}
-    {% endunless %}
+#The Current Team
+##Pablo Delclos
+  This is my profile info!
 
-    <li><span>{{ post.date | date:"%d %b" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  <br>
+##Hafsa Khalil
+  Hafsa's profile and picture
 
-    <span class="details">{{ post.content | number_of_words }} words </span>{% include tags.html %}
-
-            </ul>
-  {% endfor %}
+##Saima Akhtar
+  Saima helps with CHC analysis
+  
+#Past Lab Members
+##Gisselle Marquez
+##Nidda Mian
+##Xavier Mitchell
+##Kathy Nguyen
 </section>
