@@ -1,6 +1,6 @@
 # Jekyll Defaults
 title: Delclos House Fly Lab
-image: /images/mosca_logo.png
+logo: /images/mosca_logo.png
 description: A small and simple site I made to test out Jekyll.
 baseurl: "https://pjdelclos.github.io" # the subpath of your site, e.g. /blog
 
