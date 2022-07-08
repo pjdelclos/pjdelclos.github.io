@@ -18,7 +18,7 @@ navigation:
 - text: Members
   url: /archives/
 - text: Publications
-  url: /tags/
+  url: /pubs/
 - text: Courses
   url: /courses/
 - text: Side Projects
