@@ -1,7 +1,7 @@
 # Jekyll Defaults
 title: Delclos House Fly Lab
 description: A small and simple site I made to test out Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://pjdelclos.github.io" # the subpath of your site, e.g. /blog
 
 url: "https://pjdelclos.github.io"
 github: http://github.com/pjdelclos
