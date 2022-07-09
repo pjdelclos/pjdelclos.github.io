@@ -21,7 +21,5 @@ navigation:
   url: /pubs/
 - text: Courses
   url: /courses/
-- text: Side Projects
-  url: /side/
 - text: Contact
   url: /contact/
